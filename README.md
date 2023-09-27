@@ -15,7 +15,7 @@ Et pour compiler le fichier Quarto qui générera alors le rapport:
 $ quarto render tp.qmd
 ```
 
-Une alternative et de compiler directement le notebook:
+Une alternative est de compiler directement le notebook:
 
 ```bash
 $ quarto render tp.ipynb --execute
